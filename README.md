@@ -1,14 +1,4 @@
-
-
-
-  <h1>Rastrear atividades</h1> 
-  
- 
-  
- 
-  
-  
-
+<h1>Rastrear atividades</h1>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
@@ -56,7 +46,7 @@
 
 :heavy_check_mark: Simples e rápido
 
-## Layout ou Deploy da Aplicação :dash:
+## Layout & Deploy da Aplicação :dash:
 
 > Link do deploy da aplicação: https://j-miguell.github.io/track-activities/
 
