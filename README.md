@@ -7,15 +7,9 @@
    <a href="#memo-licença">Licença</a> 
  </p> 
   
- <p align="center"> 
-   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000"> 
- </p> 
-  
- <br> 
-  
- <p align="center"> 
-   <img alt="projeto Habits" src="https://github.com/J-Miguell/Projects/issues/2#issue-1551992788" width="100%"> 
- </p> 
+ <p align="center"> 
+  <img src="https://github.com/J-Miguell/Projects/issues/2#issue-1551992788" width="350" alt="accessibility text">
+</p>
   
  ## 🚀 Tecnologias 
   
@@ -30,7 +24,7 @@
   
  O Habits é um app para ajudar a rastrear os hábitos. 
   
- - [Visite o projeto online]() 
+ - [Visite o projeto online](https://github.com/J-Miguell/Projects.git) 
   
  ## 🔖 Layout 
   
