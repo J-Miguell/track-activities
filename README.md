@@ -29,7 +29,13 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash) 
+:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+
+:small_blue_diamond: [Casos de Uso](#casos-de-uso)
+
+:small_blue_diamond: [Resolvendo Problemas](#resolvendo_problemas)
+
+:small_blue_diamond: [Licença](#licença)
 
 ... 
 
