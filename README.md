@@ -14,7 +14,7 @@
  <br> 
   
  <p align="center"> 
-   <img alt="projeto Habits" src="/.github/preview.jpg" width="100%"> 
+   <img alt="projeto Habits" src="https://github.com/J-Miguell/Projects/issues/2#issue-1551992788" width="100%"> 
  </p> 
   
  ## 🚀 Tecnologias 
