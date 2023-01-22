@@ -24,4 +24,4 @@
   
  --- 
   
- Feito com ♥ by J.Miguel :wave: [Segue no Instagram 📷!](https://instagram.com/joaomiguell_ss)
+ Feito com ♥ by J.Miguel :wave: [Siga no Instagram📷!](https://instagram.com/joaomiguell_ss)
