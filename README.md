@@ -1,15 +1,5 @@
 <h1 align="center"> Habits </h1>
   
- <p align="center"> 
-   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-   <a href="#memo-licença">Licença</a> 
- </p> 
-  
- <p align="center"> 
-  <img src="https://github.com/J-Miguell/Projects/issues/2#issue-1551992788" width="350" alt="accessibility text">
-</p>
   
  ## 🚀 Tecnologias 
   
