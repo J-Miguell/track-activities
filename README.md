@@ -14,7 +14,7 @@
   
  O Habits é um app para ajudar a rastrear os hábitos. 
   
- - [Visite o projeto online](https://github.com/J-Miguell/Projects.git) 
+ - [Visite o projeto online](https://j-miguell.github.io/track-activities/) 
   
  ## 🔖 Layout 
   
